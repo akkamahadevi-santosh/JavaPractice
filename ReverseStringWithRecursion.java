@@ -11,6 +11,8 @@ public class ReverseStringWithRecursion {
 		scan.close();
 		String reversedString = reverseString(str);
 		System.out.println("Hi");
+		System.out.println(str);
+		System.out.println(str);
 		System.out.println(reversedString);
 	}
 
