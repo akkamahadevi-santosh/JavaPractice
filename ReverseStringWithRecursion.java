@@ -10,7 +10,7 @@ public class ReverseStringWithRecursion {
 		str=scan.nextLine();
 		scan.close();
 		String reversedString = reverseString(str);
-		System.out.println(str);
+		System.out.println("Hi");
 		System.out.println(reversedString);
 	}
 
